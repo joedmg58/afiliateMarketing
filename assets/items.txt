@@ -1,0 +1,26 @@
+"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration" - Nikola Tesla
+
+Raspberry Pi 3 - Model B - ARMv8 with 1G RAM
+https://www.adafruit.com/product/3055
+$35.00
+
+
+Adafruit PiTFT - 320x240 2.8" TFT+Touchscreen for Raspberry Pi
+https://www.adafruit.com/product/1601
+$34.95
+
+5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable
+https://www.adafruit.com/product/1995
+$7.50
+
+DC Toy / Hobby Motor - 130 Size
+https://www.adafruit.com/product/711
+$1.95
+
+Miniature 5V Cooling Fan for Raspberry Pi (and Other Computers)
+https://www.adafruit.com/product/3368
+$3.50
+
+Plastic Water Solenoid Valve - 12V - 1/2" Nominal
+https://www.adafruit.com/product/997
+$6.95
